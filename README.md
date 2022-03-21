@@ -7,3 +7,6 @@ python3 esolangmetric.py -s <sample_file>
 ```
 
 ![image](https://user-images.githubusercontent.com/59511698/159353795-c7ec77d7-0af2-46f2-9744-5b94a40592d9.png)
+
+
+If you are pleased to add more languages, you may make a pull request with the name of the current language and a sample script.
