@@ -1,0 +1,4 @@
+while _G[_G][_G][_G[_G]] do
+	_G[_G][_G] = _G[_G][_G][_G[_G]]
+	-- your code here
+end

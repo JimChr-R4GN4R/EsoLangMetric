@@ -1,0 +1,19 @@
+ (1) (2) (4) and started sowing again from the second pit 
+ (2) (0) (5)
+ (0) (1) (6) 
+ (2) (3) (2) 
+ (3) (4) (0) 
+ (4) (1) (2) 
+ (5) (2) (0) 
+ (6) (0) (1) 
+ (2) (2) (3) 
+ (0) (3) (4) 
+ (2) (4) (1) 
+ (0) (5) (2) 
+ (1) (6) (0) 
+ (3) (2) (2) 
+ (4) (0) (3) 
+ (1) (2) (4) ooh, again our starting position after so much .... 
+             and again there's from the 2nd pit to be sowed , thus 
+             exactly the same starting position, thus it will repeat ,
+             thus we got an Oscillator 

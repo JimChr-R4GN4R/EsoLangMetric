@@ -1,0 +1,3 @@
+if = {}
+if[true] = function (trueValue, falseValue) return trueValue end
+if[false] = function (trueValue, falseValue) return falseValue end

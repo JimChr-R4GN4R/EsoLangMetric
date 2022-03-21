@@ -1,0 +1,7 @@
+while io.read() do
+	_G[_G] = {}
+end
+while _G[_G] do
+	io.write("1")
+end
+io.write("0")
